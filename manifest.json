@@ -1,0 +1,18 @@
+{
+  "name": "Pauta RMF 09 · Falla de Terreno y Caída de Rocas",
+  "short_name": "Pauta RMF09",
+  "description": "Checklist móvil del dueño(a) del control para el RMF 09 (Falla de Terreno y Caída de Rocas), con respaldo fotográfico y generación de PDF.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EFF2F4",
+  "theme_color": "#232B33",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
